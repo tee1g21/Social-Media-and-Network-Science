@@ -1,0 +1,23 @@
+// Main title
+# Social Media 
+
+// Subtitle
+##  Argument for Social Media Evolution
+
+// Statement
+[Statement]: Social Media should evolve because its not good for people's mental health
+// supporting statement
+ + [Social media negatively impacts mental health]
+// opposing statement
+ - [Social media is not the main cause of mental health issues]
+// outcome
+ +> [Social media should evolve to improve mental well-being]
+ 
+// description of [Social media negatively impacts mental health]
+[Social media negatively impacts mental health]: Excessive use is linked to anxiety, depression, and low self-esteem, especially among teens.
+
+// description
+[Social media is not the main cause of mental health issues]: Mental health challenges have multiple causes, like economic pressures and personal circumstances, beyond social media.
+
+// description
+[Social media should evolve to improve mental well-being]: Platforms should implement features like screen time reminders or curated content to reduce harm.
