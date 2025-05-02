@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <key for="node" yfiles.type="nodegraphics" id="d0"/>
+  <key for="edge" yfiles.type="edgegraphics" id="d1"/>
+  <graph edgedefault="directed" id="G">
+    <node id="s1" yfiles.foldertype="group">
+      <data key="d0">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry width="80.88" height="47.6" x="0" y="0"/>
+              <y:Fill color="#DADADA" transparent="false"/>
+              <y:BorderStyle color="#DADADA" width="0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" fontFamily="arial" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.88" height="17.6" x="0.0" xml:space="preserve" y="0">Outline</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+              <y:State closed="false" closedHeight="47.6" closedWidth="80.88" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15" left="15" leftF="15" right="15" rightF="15" top="15" topF="15"/>
+              <y:BorderInsets bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry width="80.88" height="17.6" x="0" y="0"/>
+              <y:Fill color="#DADADA" transparent="false"/>
+              <y:BorderStyle color="#DADADA" width="0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" fontFamily="Arial" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.88" height="17.6" x="0.0" xml:space="preserve" y="0">Outline</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+              <y:State closed="true" closedHeight="47.6" closedWidth="80.88" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15" left="15" leftF="15" right="15" rightF="15" top="15" topF="15"/>
+              <y:BorderInsets bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph id="s1:" edgedefault="directed">
+        <node id="n0">
+          <data key="d0">
+            <y:ShapeNode>
+              <y:Geometry width="135" height="71.2" x="0" y="0"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="71.2" x="10">&lt;html&gt;Under 16s should &lt;br/&gt;be banned from &lt;br/&gt;using social &lt;br/&gt;media services &lt;/html&gt;</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="s2" yfiles.foldertype="group">
+          <data key="d0">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry width="114" height="47.6" x="0" y="0"/>
+                  <y:Fill color="#BABABA" transparent="false"/>
+                  <y:BorderStyle color="#BABABA" width="0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="node_width" fontFamily="arial" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="84" height="17.6" x="0.0" xml:space="preserve" y="0">Introduction</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                  <y:State closed="false" closedHeight="47.6" closedWidth="114" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15" left="15" leftF="15" right="15" rightF="15" top="15" topF="15"/>
+                  <y:BorderInsets bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry width="114" height="17.6" x="0" y="0"/>
+                  <y:Fill color="#BABABA" transparent="false"/>
+                  <y:BorderStyle color="#BABABA" width="0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="node_width" fontFamily="Arial" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="84" height="17.6" x="0.0" xml:space="preserve" y="0">Introduction</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                  <y:State closed="true" closedHeight="47.6" closedWidth="114" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15" left="15" leftF="15" right="15" rightF="15" top="15" topF="15"/>
+                  <y:BorderInsets bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph id="s2:" edgedefault="directed">
+            <node id="n1">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="778.9" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="28.3" x="10">&lt;html&gt;Introduction &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="757.6" x="10" y="28.3">&lt;html&gt;The&amp;#x20;use&amp;#x20;of&amp;#x20;social&amp;#x20;&lt;br/&gt;media&amp;#x20;by&amp;#x20;&lt;br/&gt;under-16s&amp;#x20;remains&amp;#x20;&lt;br/&gt;highly&amp;#x20;divisive&amp;#x20;as&amp;#x20;&lt;br/&gt;online&amp;#x20;platforms&amp;#x20;&lt;br/&gt;continue&amp;#x20;to&amp;#x20;expand&amp;#x20;&lt;br/&gt;rapidly.&amp;#x20;With&amp;#x20;most&amp;#x20;&lt;br/&gt;social&amp;#x20;media&amp;#x20;&lt;br/&gt;platforms&amp;#x20;currently&amp;#x20;&lt;br/&gt;adopting&amp;#x20;an&amp;#x20;age&amp;#x20;&lt;br/&gt;requirement&amp;#x20;of&amp;#x20;13+&amp;#x20;&lt;br/&gt;&amp;#x28;OpenView&amp;#x20;&lt;br/&gt;Education&amp;#x2C;&amp;#x20;2025&amp;#x29;&amp;#x2C;&amp;#x20;&lt;br/&gt;this&amp;#x20;argument&amp;#x20;&lt;br/&gt;considers&amp;#x20;whether&amp;#x20;&lt;br/&gt;the&amp;#x20;minimum&amp;#x20;age&amp;#x20;&lt;br/&gt;should&amp;#x20;be&amp;#x20;raised&amp;#x20;to&amp;#x20;&lt;br/&gt;16&amp;#x20;and&amp;#x20;legally&amp;#x20;&lt;br/&gt;enforced.&amp;#x20;In&amp;#x20;this&amp;#x20;&lt;br/&gt;context&amp;#x2C;&amp;#x20;a&amp;#x20;&amp;#x22;ban&amp;#x22;&amp;#x20;&lt;br/&gt;refers&amp;#x20;to&amp;#x20;a&amp;#x20;blanket&amp;#x20;&lt;br/&gt;restriction&amp;#x20;across&amp;#x20;&lt;br/&gt;all&amp;#x20;social&amp;#x20;media&amp;#x20;&lt;br/&gt;services&amp;#x20;-&amp;#x20;defined&amp;#x20;&lt;br/&gt;as&amp;#x20;digital&amp;#x20;platforms&amp;#x20;&lt;br/&gt;that&amp;#x20;enable&amp;#x20;users&amp;#x20;to&amp;#x20;&lt;br/&gt;create&amp;#x2C;&amp;#x20;share&amp;#x2C;&amp;#x20;and&amp;#x20;&lt;br/&gt;interact&amp;#x20;with&amp;#x20;&lt;br/&gt;content&amp;#x20;within&amp;#x20;&lt;br/&gt;online&amp;#x20;communities&amp;#x20;&lt;br/&gt;&amp;#x28;Wikipedia&amp;#x2C;&amp;#x20;2025&amp;#x29;.&amp;#x20;&lt;br/&gt;A&amp;#x20;recent&amp;#x20;European&amp;#x20;&lt;br/&gt;Parliament&amp;#x20;study&amp;#x20;&lt;br/&gt;on&amp;#x20;social&amp;#x20;media&amp;#8217;s&amp;#x20;&lt;br/&gt;impact&amp;#x20;on&amp;#x20;child&amp;#x20;&lt;br/&gt;development&amp;#x20;&lt;br/&gt;&amp;#x28;European&amp;#x20;&lt;br/&gt;Parliament&amp;#x2C;&amp;#x20;2023&amp;#x29;&amp;#x20;&lt;br/&gt;underscores&amp;#x20;the&amp;#x20;&lt;br/&gt;urgency&amp;#x20;of&amp;#x20;this&amp;#x20;&lt;br/&gt;debate&amp;#x2C;&amp;#x20;highlighting&amp;#x20;&lt;br/&gt;growing&amp;#x20;concerns&amp;#x20;&lt;br/&gt;over&amp;#x20;how&amp;#x20;early&amp;#x20;and&amp;#x20;&lt;br/&gt;prolonged&amp;#x20;&lt;br/&gt;exposure&amp;#x20;to&amp;#x20;online&amp;#x20;&lt;br/&gt;platforms&amp;#x20;may&amp;#x20;&lt;br/&gt;affect&amp;#x20;children&amp;#x27;s&amp;#x20;&lt;br/&gt;mental&amp;#x20;health&amp;#x2C;&amp;#x20;&lt;br/&gt;social&amp;#x20;&lt;br/&gt;development&amp;#x2C;&amp;#x20;and&amp;#x20;&lt;br/&gt;vulnerability&amp;#x20;to&amp;#x20;&lt;br/&gt;harmful&amp;#x20;content.&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+          </graph>
+        </node>
+        <node id="s5" yfiles.foldertype="group">
+          <data key="d0">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry width="112.88" height="47.6" x="0" y="0"/>
+                  <y:Fill color="#BABABA" transparent="false"/>
+                  <y:BorderStyle color="#BABABA" width="0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="node_width" fontFamily="arial" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="82.88" height="17.6" x="0.0" xml:space="preserve" y="0">My Position</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                  <y:State closed="false" closedHeight="47.6" closedWidth="112.88" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15" left="15" leftF="15" right="15" rightF="15" top="15" topF="15"/>
+                  <y:BorderInsets bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry width="112.88" height="17.6" x="0" y="0"/>
+                  <y:Fill color="#BABABA" transparent="false"/>
+                  <y:BorderStyle color="#BABABA" width="0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="node_width" fontFamily="Arial" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="82.88" height="17.6" x="0.0" xml:space="preserve" y="0">My Position</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                  <y:State closed="true" closedHeight="47.6" closedWidth="112.88" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15" left="15" leftF="15" right="15" rightF="15" top="15" topF="15"/>
+                  <y:BorderInsets bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph id="s5:" edgedefault="directed">
+            <node id="n2">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="1050.6000000000001" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="28.3" x="10">&lt;html&gt;My Position &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="1029.3000000000002" x="10" y="28.3">&lt;html&gt;While I understand &lt;br/&gt;the appeal of &lt;br/&gt;banning under-16s &lt;br/&gt;from social media, &lt;br/&gt;especially to shield &lt;br/&gt;them from the &lt;br/&gt;disturbing and &lt;br/&gt;sometimes &lt;br/&gt;harrowing content I &lt;br/&gt;personally &lt;br/&gt;encountered as a &lt;br/&gt;child, I believe the &lt;br/&gt;issue is more &lt;br/&gt;complex. Social &lt;br/&gt;media can both &lt;br/&gt;harm and support &lt;br/&gt;young people’s &lt;br/&gt;mental health, and &lt;br/&gt;a blanket ban risks &lt;br/&gt;depriving &lt;br/&gt;vulnerable groups &lt;br/&gt;of their crucial &lt;br/&gt;support systems. &lt;br/&gt;Instead, we should &lt;br/&gt;empower children &lt;br/&gt;to navigate these &lt;br/&gt;platforms healthily &lt;br/&gt;and regulate their &lt;br/&gt;emotions, as &lt;br/&gt;McAlister et al. &lt;br/&gt;recommend. &lt;br/&gt;Moreover, Pires et &lt;br/&gt;al. showed that &lt;br/&gt;social media is &lt;br/&gt;actively used by &lt;br/&gt;teens as a powerful &lt;br/&gt;educational tool; it &lt;br/&gt;is vital that these &lt;br/&gt;free resources &lt;br/&gt;remain available to &lt;br/&gt;everyone. Crucially, &lt;br/&gt;I believe much of &lt;br/&gt;the danger stems &lt;br/&gt;not from children’s &lt;br/&gt;access itself but &lt;br/&gt;from widespread &lt;br/&gt;digital illiteracy &lt;br/&gt;among parents, &lt;br/&gt;which limits their &lt;br/&gt;ability to guide and &lt;br/&gt;protect their &lt;br/&gt;children online. If &lt;br/&gt;we prevent young &lt;br/&gt;people from &lt;br/&gt;developing these &lt;br/&gt;skills now, we risk &lt;br/&gt;raising yet another &lt;br/&gt;generation of &lt;br/&gt;digitally vulnerable &lt;br/&gt;adults. By teaching &lt;br/&gt;responsible use &lt;br/&gt;rather than &lt;br/&gt;enforcing &lt;br/&gt;prohibition, we &lt;br/&gt;create a safer, &lt;br/&gt;savvier future &lt;br/&gt;where children are &lt;br/&gt;better equipped to &lt;br/&gt;thrive in an &lt;br/&gt;increasingly digital &lt;br/&gt;world. &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+          </graph>
+        </node>
+        <node id="s3" yfiles.foldertype="group">
+          <data key="d0">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry width="54" height="47.6" x="0" y="0"/>
+                  <y:Fill color="#BABABA" transparent="false"/>
+                  <y:BorderStyle color="#BABABA" width="0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="node_width" fontFamily="arial" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="24" height="17.6" x="0.0" xml:space="preserve" y="0">For</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                  <y:State closed="false" closedHeight="47.6" closedWidth="54" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15" left="15" leftF="15" right="15" rightF="15" top="15" topF="15"/>
+                  <y:BorderInsets bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry width="54" height="17.6" x="0" y="0"/>
+                  <y:Fill color="#BABABA" transparent="false"/>
+                  <y:BorderStyle color="#BABABA" width="0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="node_width" fontFamily="Arial" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="24" height="17.6" x="0.0" xml:space="preserve" y="0">For</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                  <y:State closed="true" closedHeight="47.6" closedWidth="54" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15" left="15" leftF="15" right="15" rightF="15" top="15" topF="15"/>
+                  <y:BorderInsets bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph id="s3:" edgedefault="directed">
+            <node id="n3">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="407.1" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="28.3" x="10">&lt;html&gt;Sexual Content &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="385.8" x="10" y="28.3">&lt;html&gt;The&amp;#x20;EU&amp;#x20;kids&amp;#x20;online&amp;#x20;&lt;br/&gt;study&amp;#x20;&amp;#x28;European&amp;#x20;&lt;br/&gt;Parliament&amp;#x2C;&amp;#x20;2023&amp;#x29;&amp;#x20;&lt;br/&gt;reported&amp;#x20;that&amp;#x20;33&amp;#x25;&amp;#x20;&lt;br/&gt;on&amp;#x20;average&amp;#x20;of&amp;#x20;&lt;br/&gt;children&amp;#x20;aged&amp;#x20;9-16&amp;#x20;&lt;br/&gt;had&amp;#x20;been&amp;#x20;exposed&amp;#x20;&lt;br/&gt;to&amp;#x20;sexual&amp;#x20;&lt;br/&gt;content/pornography&amp;#x2C;&amp;#x20;&lt;br/&gt;surpassing&amp;#x20;61&amp;#x25;&amp;#x20;for&amp;#x20;&lt;br/&gt;15-16-year-olds.&amp;#x20;A&amp;#x20;&lt;br/&gt;further&amp;#x20;study&amp;#x20;&lt;br/&gt;&amp;#x28;Andrie&amp;#x20;et&amp;#x20;al.&amp;#x2C;&amp;#x20;2021&amp;#x29;&amp;#x20;&lt;br/&gt;found&amp;#x20;exposure&amp;#x20;to&amp;#x20;&lt;br/&gt;sexual&amp;#x20;content&amp;#x20;was&amp;#x20;&lt;br/&gt;more&amp;#x20;pronounced&amp;#x20;&lt;br/&gt;in&amp;#x20;males&amp;#x20;who&amp;#x20;&lt;br/&gt;&amp;#x27;displayed&amp;#x20;&lt;br/&gt;dysfunctional&amp;#x20;&lt;br/&gt;internet&amp;#x20;behaviour&amp;#x27;&amp;#x2C;&amp;#x20;&lt;br/&gt;suggesting&amp;#x20;that&amp;#x20;&lt;br/&gt;exposure&amp;#x20;to&amp;#x20;this&amp;#x20;&lt;br/&gt;content&amp;#x20;can&amp;#x20;lead&amp;#x20;to&amp;#x20;&lt;br/&gt;negative&amp;#x20;&lt;br/&gt;behavioural&amp;#x20;effects.&amp;#x20;&lt;br/&gt;&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n4">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="249.80000000000004" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="28.3" x="10">&lt;html&gt;Grooming &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="228.50000000000003" x="10" y="28.3">&lt;html&gt;Beyond&amp;#x20;exposure&amp;#x20;&lt;br/&gt;to&amp;#x20;sexual&amp;#x20;media&amp;#x2C;&amp;#x20;an&amp;#x20;&lt;br/&gt;evidence&amp;#x20;review&amp;#x20;&lt;br/&gt;&amp;#x28;Stoilova&amp;#x2C;&amp;#x20;&lt;br/&gt;Livingstone&amp;#x2C;&amp;#x20;et&amp;#x20;al.&amp;#x2C;&amp;#x20;&lt;br/&gt;2021&amp;#x29;&amp;#x20;found&amp;#x20;that&amp;#x20;up&amp;#x20;&lt;br/&gt;to&amp;#x20;17&amp;#x25;&amp;#x20;of&amp;#x20;minors&amp;#x20;&lt;br/&gt;surveyed&amp;#x20;had&amp;#x20;&lt;br/&gt;received&amp;#x20;&amp;#x22;sexual&amp;#x20;&lt;br/&gt;solicitations&amp;#x22;&amp;#x20;from&amp;#x20;&lt;br/&gt;adults&amp;#x20;online&amp;#x2C;&amp;#x20;&lt;br/&gt;highlighting&amp;#x20;the&amp;#x20;&lt;br/&gt;alarming&amp;#x20;threat&amp;#x20;to&amp;#x20;&lt;br/&gt;under&amp;#x20;16s&amp;#x20;that&amp;#x20;is&amp;#x20;&lt;br/&gt;grooming.&amp;#x20;&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n5">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="464.30000000000007" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="42.6" x="10">&lt;html&gt;Explicit and &lt;br/&gt;Hateful Content &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="428.70000000000005" x="10" y="42.6">&lt;html&gt;The&amp;#x20;EU&amp;#x20;study&amp;#x20;&lt;br/&gt;reported&amp;#x20;&lt;br/&gt;widespread&amp;#x20;&lt;br/&gt;exposure&amp;#x20;to&amp;#x20;&lt;br/&gt;harmful&amp;#x20;content&amp;#x20;&lt;br/&gt;among&amp;#x20;under-16s&amp;#x2C;&amp;#x20;&lt;br/&gt;with&amp;#x20;over&amp;#x20;10&amp;#x25;&amp;#x20;&lt;br/&gt;encountering&amp;#x20;&lt;br/&gt;material&amp;#x20;on&amp;#x20;&lt;br/&gt;self-harm&amp;#x2C;&amp;#x20;drug&amp;#x20;use&amp;#x20;&lt;br/&gt;and&amp;#x20;pro-anorexic&amp;#x20;&lt;br/&gt;rhetoric.&amp;#x20;In&amp;#x20;some&amp;#x20;&lt;br/&gt;EU&amp;#x20;countries&amp;#x2C;&amp;#x20;up&amp;#x20;to&amp;#x20;&lt;br/&gt;48&amp;#x25;&amp;#x20;of&amp;#x20;children&amp;#x20;&lt;br/&gt;had&amp;#x20;received&amp;#x20;&lt;br/&gt;hateful&amp;#x20;messages&amp;#x2C;&amp;#x20;&lt;br/&gt;including&amp;#x20;pressure&amp;#x20;&lt;br/&gt;to&amp;#x20;self-harm&amp;#x2C;&amp;#x20;verbal&amp;#x20;&lt;br/&gt;abuse&amp;#x2C;&amp;#x20;and&amp;#x20;&lt;br/&gt;exclusion.&amp;#x20;&lt;br/&gt;&amp;#x28;European&amp;#x20;&lt;br/&gt;Parliament&amp;#x2C;&amp;#x20;2023&amp;#x29;.&amp;#x20;&lt;br/&gt;This&amp;#x20;online&amp;#x20;hate&amp;#x20;&lt;br/&gt;was&amp;#x20;often&amp;#x20;targeted&amp;#x20;&lt;br/&gt;towards&amp;#x20;sexuality&amp;#x2C;&amp;#x20;&lt;br/&gt;gender&amp;#x2C;&amp;#x20;religion&amp;#x2C;&amp;#x20;&lt;br/&gt;and&amp;#x20;other&amp;#x20;&lt;br/&gt;marginalized&amp;#x20;&lt;br/&gt;groups.&amp;#x20;&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n6">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="278.40000000000003" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="42.6" x="10">&lt;html&gt;Advertisement &lt;br/&gt;Exploitation &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="242.8" x="10" y="42.6">&lt;html&gt;&amp;#x20;Fairplay&amp;#x20;and&amp;#x20;&lt;br/&gt;Global&amp;#x20;Action&amp;#x20;Plan&amp;#x20;&lt;br/&gt;found&amp;#x20;that&amp;#x20;82&amp;#x25;&amp;#x20;of&amp;#x20;&lt;br/&gt;16-17-year-olds&amp;#x20;&lt;br/&gt;have&amp;#x20;encountered&amp;#x20;&lt;br/&gt;over-targeted&amp;#x20;&lt;br/&gt;advertisements&amp;#x20;&lt;br/&gt;which&amp;#x20;make&amp;#x20;them&amp;#x20;&lt;br/&gt;feel&amp;#x20;uncomfortable&amp;#x2C;&amp;#x20;&lt;br/&gt;with&amp;#x20;Facebook&amp;#x27;s&amp;#x20;&lt;br/&gt;targeting&amp;#x20;system&amp;#x20;&lt;br/&gt;allowing&amp;#x20;exposure&amp;#x20;&lt;br/&gt;to&amp;#x20;ads&amp;#x20;for&amp;#x20;alcohol&amp;#x2C;&amp;#x20;&lt;br/&gt;gambling&amp;#x2C;&amp;#x20;and&amp;#x20;&lt;br/&gt;weight-loss&amp;#x20;&lt;br/&gt;products.&amp;#x20;&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n7">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="278.40000000000003" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="42.6" x="10">&lt;html&gt;Ideological &lt;br/&gt;Manipulation &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="242.8" x="10" y="42.6">&lt;html&gt;&amp;#x20;Research&amp;#x20;from&amp;#x20;&lt;br/&gt;UCL&amp;#x20;found&amp;#x20;TikTok&amp;#x27;s&amp;#x20;&lt;br/&gt;algorithm&amp;#x20;to&amp;#x20;&lt;br/&gt;&amp;#x22;amplify&amp;#x20;&lt;br/&gt;misogynistic&amp;#x20;&lt;br/&gt;content&amp;#x20;to&amp;#x20;teens&amp;#x22;&amp;#x20;&lt;br/&gt;and&amp;#x20;revealed&amp;#x20;that&amp;#x20;&lt;br/&gt;these&amp;#x20;hateful&amp;#x20;&lt;br/&gt;ideologies&amp;#x20;have&amp;#x20;&lt;br/&gt;migrated&amp;#x20;from&amp;#x20;&lt;br/&gt;social&amp;#x20;media&amp;#x20;into&amp;#x20;&lt;br/&gt;school&amp;#x20;&lt;br/&gt;environments&amp;#x2C;&amp;#x20;&lt;br/&gt;permeating&amp;#x20;&lt;br/&gt;&amp;#x22;mainstream&amp;#x20;youth&amp;#x20;&lt;br/&gt;culture&amp;#x22;.&amp;#x20;&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n8">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="135.4" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="56.900000000000006" x="10">&lt;html&gt;Content &lt;br/&gt;Moderation Tools &lt;br/&gt;Are Inadequate &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="85.5" x="10" y="56.900000000000006">&lt;html&gt;Current content &lt;br/&gt;filtering and &lt;br/&gt;moderation tools do &lt;br/&gt;not protect children &lt;br/&gt;on social media. &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n9">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="349.90000000000003" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="71.2" x="10">&lt;html&gt;Brain &lt;br/&gt;Development and &lt;br/&gt;Cognitive &lt;br/&gt;Function &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="285.70000000000005" x="10" y="71.2">&lt;html&gt;Maza&amp;#x20;et&amp;#x20;al.&amp;#x2C;&amp;#x20;2023&amp;#x20;&lt;br/&gt;studied&amp;#x20;169&amp;#x20;sixth&amp;#x20;&lt;br/&gt;and&amp;#x20;seventh&amp;#x20;&lt;br/&gt;graders&amp;#x20;and&amp;#x20;found&amp;#x20;&lt;br/&gt;that&amp;#x20;those&amp;#x20;who&amp;#x20;&lt;br/&gt;habitually&amp;#x20;checked&amp;#x20;&lt;br/&gt;social&amp;#x20;media&amp;#x20;&lt;br/&gt;showed&amp;#x20;altered&amp;#x20;&lt;br/&gt;brain&amp;#x20;development&amp;#x20;&lt;br/&gt;in&amp;#x20;areas&amp;#x20;linked&amp;#x20;to&amp;#x20;&lt;br/&gt;emotion&amp;#x2C;&amp;#x20;&lt;br/&gt;motivation&amp;#x2C;&amp;#x20;and&amp;#x20;&lt;br/&gt;cognitive&amp;#x20;control.&amp;#x20;&lt;br/&gt;Early&amp;#x20;exposure&amp;#x20;&lt;br/&gt;may&amp;#x20;physically&amp;#x20;&lt;br/&gt;reshape&amp;#x20;how&amp;#x20;&lt;br/&gt;under-16s&amp;#x20;respond&amp;#x20;&lt;br/&gt;to&amp;#x20;social&amp;#x20;rewards&amp;#x20;&lt;br/&gt;and&amp;#x20;punishments.&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n10">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="407.1" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="71.2" x="10">&lt;html&gt;Increased &lt;br/&gt;Anxiety, &lt;br/&gt;Depression and &lt;br/&gt;Worsened Sleep &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="342.90000000000003" x="10" y="71.2">&lt;html&gt;Research&amp;#x20;links&amp;#x20;&lt;br/&gt;adolescent&amp;#x20;social&amp;#x20;&lt;br/&gt;media&amp;#x20;use&amp;#x20;to&amp;#x20;&lt;br/&gt;increased&amp;#x20;mental&amp;#x20;&lt;br/&gt;distress&amp;#x20;and&amp;#x20;&lt;br/&gt;self-harm&amp;#x20;&amp;#x28;Khalaf&amp;#x20;et&amp;#x20;&lt;br/&gt;al.&amp;#x2C;&amp;#x20;2023&amp;#x29;.&amp;#x20;Khalaf&amp;#x20;et&amp;#x20;&lt;br/&gt;al.&amp;#x20;also&amp;#x20;tie&amp;#x20;&lt;br/&gt;excessive&amp;#x20;phone&amp;#x20;&lt;br/&gt;use&amp;#x20;-&amp;#x20;especially&amp;#x20;&lt;br/&gt;before&amp;#x20;bed&amp;#x20;-&amp;#x20;to&amp;#x20;&lt;br/&gt;sleep&amp;#x20;loss&amp;#x2C;&amp;#x20;&lt;br/&gt;impaired&amp;#x20;cognition&amp;#x2C;&amp;#x20;&lt;br/&gt;and&amp;#x20;emotional&amp;#x20;&lt;br/&gt;dysregulation.&amp;#x20;&lt;br/&gt;Similarly&amp;#x2C;&amp;#x20;&lt;br/&gt;Pirdehgan&amp;#x20;et&amp;#x20;al.&amp;#x20;&lt;br/&gt;found&amp;#x20;strong&amp;#x20;links&amp;#x20;&lt;br/&gt;between&amp;#x20;social&amp;#x20;&lt;br/&gt;media&amp;#x2C;&amp;#x20;poor&amp;#x20;sleep&amp;#x20;&lt;br/&gt;&amp;#x28;notably&amp;#x20;among&amp;#x20;&lt;br/&gt;boys&amp;#x29;&amp;#x2C;&amp;#x20;and&amp;#x20;&lt;br/&gt;depression.&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n11">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="392.80000000000007" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="42.6" x="10">&lt;html&gt;Social &lt;br/&gt;Comparison &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="357.20000000000005" x="10" y="42.6">&lt;html&gt;Based on my own &lt;br/&gt;and peers’ &lt;br/&gt;childhood &lt;br/&gt;experiences, social &lt;br/&gt;media fosters &lt;br/&gt;harmful social &lt;br/&gt;comparison. &lt;br/&gt;Unrealistic &lt;br/&gt;portrayals, &lt;br/&gt;exacerbated by &lt;br/&gt;celebrities, &lt;br/&gt;pressured us to &lt;br/&gt;exaggerate our &lt;br/&gt;own lives, creating &lt;br/&gt;a toxic, competitive &lt;br/&gt;environment. This &lt;br/&gt;leads to low &lt;br/&gt;self-esteem, &lt;br/&gt;inadequacy, and &lt;br/&gt;lasting emotional &lt;br/&gt;impacts, &lt;br/&gt;particularly &lt;br/&gt;damaging during &lt;br/&gt;formative years. &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n13">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="864.7" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="42.6" x="10">&lt;html&gt;Parents cannot &lt;br/&gt;manage &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="829.1" x="10" y="42.6">&lt;html&gt;Parents&amp;#x20;cannot&amp;#x20;&lt;br/&gt;manage&amp;#x20;or&amp;#x20;regulate&amp;#x20;&lt;br/&gt;the&amp;#x20;social&amp;#x20;media&amp;#x20;&lt;br/&gt;use&amp;#x20;of&amp;#x20;their&amp;#x20;under&amp;#x20;&lt;br/&gt;16-year-old&amp;#x20;&lt;br/&gt;children.&amp;#x20;A&amp;#x20;study&amp;#x20;&lt;br/&gt;published&amp;#x20;by&amp;#x20;&lt;br/&gt;Ofcom&amp;#x28;Ofcom&amp;#x2C;&amp;#x20;&lt;br/&gt;2023&amp;#x29;&amp;#x20;investigated&amp;#x20;&lt;br/&gt;social&amp;#x20;media&amp;#x20;use&amp;#x20;&lt;br/&gt;for&amp;#x20;children&amp;#x20;aged&amp;#x20;3&amp;#x20;&lt;br/&gt;to&amp;#x20;17&amp;#x2C;&amp;#x20;including&amp;#x20;&lt;br/&gt;their&amp;#x20;parents&amp;#x20;views&amp;#x20;&lt;br/&gt;and&amp;#x20;management&amp;#x20;&lt;br/&gt;methods&amp;#x20;changes&amp;#x20;&lt;br/&gt;as&amp;#x20;their&amp;#x20;children&amp;#x20;&lt;br/&gt;age.&amp;#x20;Firstly&amp;#x2C;&amp;#x20;for&amp;#x20;&lt;br/&gt;ages&amp;#x20;3-4&amp;#x2C;&amp;#x20;25&amp;#x25;&amp;#x20;of&amp;#x20;&lt;br/&gt;parents&amp;#x20;believed&amp;#x20;&lt;br/&gt;their&amp;#x20;children&amp;#x20;were&amp;#x20;&lt;br/&gt;actively&amp;#x20;using&amp;#x20;&lt;br/&gt;WhatsApp&amp;#x2C;&amp;#x20;&lt;br/&gt;highlighting&amp;#x20;a&amp;#x20;clear&amp;#x20;&lt;br/&gt;lack&amp;#x20;of&amp;#x20;digital&amp;#x20;&lt;br/&gt;literacy&amp;#x20;and&amp;#x20;&lt;br/&gt;platform&amp;#x20;use&amp;#x20;&lt;br/&gt;awareness.&amp;#x20;Beyond&amp;#x20;&lt;br/&gt;the&amp;#x20;age&amp;#x20;of&amp;#x20;3-4&amp;#x2C;&amp;#x20;&lt;br/&gt;parents&amp;#x20;transitioned&amp;#x20;&lt;br/&gt;from&amp;#x20;sitting&amp;#x20;beside&amp;#x20;&lt;br/&gt;their&amp;#x20;child&amp;#x20;during&amp;#x20;&lt;br/&gt;their&amp;#x20;online&amp;#x20;use&amp;#x20;to&amp;#x20;&lt;br/&gt;&amp;#x22;regular&amp;#x20;checking&amp;#x22;&amp;#x20;&lt;br/&gt;and&amp;#x20;asking&amp;#x20;what&amp;#x20;&lt;br/&gt;their&amp;#x20;children&amp;#x20;are&amp;#x20;&lt;br/&gt;doing.&amp;#x20;Alarmingly&amp;#x2C;&amp;#x20;&lt;br/&gt;through&amp;#x20;ages&amp;#x20;&lt;br/&gt;12-15&amp;#x2C;&amp;#x20;40&amp;#x25;&amp;#x20;of&amp;#x20;&lt;br/&gt;parents&amp;#x20;opted&amp;#x20;to&amp;#x20;&lt;br/&gt;simply&amp;#x20;trust&amp;#x20;their&amp;#x20;&lt;br/&gt;child&amp;#x20;regarding&amp;#x20;&lt;br/&gt;online&amp;#x20;safety&amp;#x2C;&amp;#x20;for&amp;#x20;&lt;br/&gt;ages&amp;#x20;16-17&amp;#x2C;&amp;#x20;this&amp;#x20;&lt;br/&gt;figure&amp;#x20;increased&amp;#x20;to&amp;#x20;&lt;br/&gt;53&amp;#x25;.&amp;#x20;Leaving&amp;#x20;&lt;br/&gt;under&amp;#x20;16s&amp;#x20;entirely&amp;#x20;&lt;br/&gt;responsible&amp;#x20;for&amp;#x20;their&amp;#x20;&lt;br/&gt;online&amp;#x20;safety&amp;#x20;during&amp;#x20;&lt;br/&gt;such&amp;#x20;formative&amp;#x20;&lt;br/&gt;years&amp;#x20;is&amp;#x20;not&amp;#x20;just&amp;#x20;&lt;br/&gt;irresponsible&amp;#x2C;&amp;#x20;but&amp;#x20;&lt;br/&gt;potentially&amp;#x20;&lt;br/&gt;dangerous&amp;#x2C;&amp;#x20;and&amp;#x20;&lt;br/&gt;reflects&amp;#x20;a&amp;#x20;&lt;br/&gt;fundamental&amp;#x20;failure&amp;#x20;&lt;br/&gt;to&amp;#x20;protect&amp;#x20;children&amp;#x20;&lt;br/&gt;from&amp;#x20;digital&amp;#x20;harm.&amp;#x20;&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n14">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="364.20000000000005" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="42.6" x="10">&lt;html&gt;Failure to Remove &lt;br/&gt;Explicit Content &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="328.6" x="10" y="42.6">&lt;html&gt;Research&amp;#x20;from&amp;#x20;&lt;br/&gt;Ofcom&amp;#x20;&amp;#x28;Ofcom&amp;#x2C;&amp;#x20;&lt;br/&gt;2024&amp;#x29;&amp;#x20;shows&amp;#x20;that&amp;#x20;&lt;br/&gt;children&amp;#x20;are&amp;#x20;&lt;br/&gt;exposed&amp;#x20;to&amp;#x20;violent&amp;#x20;&lt;br/&gt;content&amp;#x20;as&amp;#x20;early&amp;#x20;as&amp;#x20;&lt;br/&gt;primary&amp;#x20;school.&amp;#x20;&lt;br/&gt;When&amp;#x20;asked&amp;#x2C;&amp;#x20;&lt;br/&gt;children&amp;#x20;describe&amp;#x20;&lt;br/&gt;encountering&amp;#x20;&lt;br/&gt;violent&amp;#x20;content&amp;#x20;&lt;br/&gt;online&amp;#x20;as&amp;#x20;&lt;br/&gt;&amp;#x22;unavoidable&amp;#x22;&amp;#x20;with&amp;#x20;&lt;br/&gt;teenage&amp;#x20;boys&amp;#x20;being&amp;#x20;&lt;br/&gt;more&amp;#x20;likely&amp;#x20;to&amp;#x20;&lt;br/&gt;actively&amp;#x20;share&amp;#x20;the&amp;#x20;&lt;br/&gt;violent&amp;#x20;content&amp;#x20;as&amp;#x20;a&amp;#x20;&lt;br/&gt;method&amp;#x20;to&amp;#x20;&amp;#x22;fit&amp;#x20;in&amp;#x22;&amp;#x20;&lt;br/&gt;with&amp;#x20;peers&amp;#x2C;&amp;#x20;&lt;br/&gt;highlighting&amp;#x20;their&amp;#x20;&lt;br/&gt;emotional&amp;#x20;&lt;br/&gt;immaturity.&amp;#x20;&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n15">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="507.20000000000005" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="42.6" x="10">&lt;html&gt;Inappropriate &lt;br/&gt;Targeted Material &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="471.6" x="10" y="42.6">&lt;html&gt;Research&amp;#x20;&lt;br/&gt;undertook&amp;#x20;by&amp;#x20;the&amp;#x20;&lt;br/&gt;5Rights&amp;#x20;Foundation&amp;#x20;&lt;br/&gt;&amp;#x28;5Rights&amp;#x20;&lt;br/&gt;Foundation&amp;#x29;&amp;#x20;&lt;br/&gt;examined&amp;#x20;content&amp;#x20;&lt;br/&gt;shown&amp;#x20;to&amp;#x20;children&amp;#x20;&lt;br/&gt;on&amp;#x20;social&amp;#x20;media&amp;#x2C;&amp;#x20;&lt;br/&gt;examining&amp;#x20;how&amp;#x20;&lt;br/&gt;&amp;#x22;design&amp;#x20;choices&amp;#x20;&lt;br/&gt;impact&amp;#x20;the&amp;#x20;lives&amp;#x20;of&amp;#x20;&lt;br/&gt;children&amp;#x22;.&amp;#x20;&lt;br/&gt;Interviewed&amp;#x20;&lt;br/&gt;designers&amp;#x20;&lt;br/&gt;explained&amp;#x20;how&amp;#x20;&lt;br/&gt;social&amp;#x20;media&amp;#x20;&lt;br/&gt;networks&amp;#x20;are&amp;#x20;built&amp;#x20;&lt;br/&gt;to&amp;#x20;&amp;#x22;maximise&amp;#x20;reach&amp;#x20;&lt;br/&gt;and&amp;#x20;activity&amp;#x22;&amp;#x20;and&amp;#x20;&lt;br/&gt;that&amp;#x20;there&amp;#x20;is&amp;#x20;&amp;#x22;no&amp;#x20;&lt;br/&gt;ethics&amp;#x20;board&amp;#x20;in&amp;#x20;the&amp;#x20;&lt;br/&gt;digital&amp;#x20;space&amp;#x22;&amp;#x2C;&amp;#x20;&lt;br/&gt;meanwhile&amp;#x2C;&amp;#x20;child&amp;#x20;&lt;br/&gt;accounts&amp;#x20;were&amp;#x20;&lt;br/&gt;found&amp;#x20;to&amp;#x20;be&amp;#x20;&lt;br/&gt;targeted&amp;#x20;with&amp;#x20;&lt;br/&gt;&amp;#x22;pro-suicide&amp;#x20;&lt;br/&gt;material&amp;#x22;&amp;#x20;and&amp;#x20;&lt;br/&gt;pornography.&amp;#x20;&lt;br/&gt;Social&amp;#x20;media&amp;#x20;is&amp;#x20;not&amp;#x20;&lt;br/&gt;designed&amp;#x20;to&amp;#x20;keep&amp;#x20;&lt;br/&gt;children&amp;#x20;safe.&amp;#x20;&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n16">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="135.4" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="42.6" x="10">&lt;html&gt;Facebook's New &lt;br/&gt;Policy (2025) &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="99.80000000000001" x="10" y="42.6">&lt;html&gt;As&amp;#x20;of&amp;#x20;2025&amp;#x2C;&amp;#x20;&lt;br/&gt;Facebook&amp;#x20;is&amp;#x20;&lt;br/&gt;altering&amp;#x20;its&amp;#x20;&lt;br/&gt;approach&amp;#x20;to&amp;#x20;&lt;br/&gt;content&amp;#x20;moderation&amp;#x20;&lt;br/&gt;&amp;#x28;&amp;#x28;Meta&amp;#x2C;&amp;#x20;2025&amp;#x29;&amp;#x29;.&amp;#x20;&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n17">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="278.40000000000003" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="28.3" x="10">&lt;html&gt;(1) &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="257.1" x="10" y="28.3">&lt;html&gt;Facebook is &lt;br/&gt;discontinuing &lt;br/&gt;partnerships with &lt;br/&gt;third-party &lt;br/&gt;fact-checking &lt;br/&gt;bodies, opting for a &lt;br/&gt;similar "community &lt;br/&gt;notes" system &lt;br/&gt;similarly used by    &lt;br/&gt;X, where notes &lt;br/&gt;require broad &lt;br/&gt;agreement before &lt;br/&gt;being accepted. &lt;br/&gt;This delay could &lt;br/&gt;expose under 16s &lt;br/&gt;to higher levels of &lt;br/&gt;misinformation.  &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n18">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="292.70000000000005" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="28.3" x="10">&lt;html&gt;(2) &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="271.40000000000003" x="10" y="28.3">&lt;html&gt;Facebook is &lt;br/&gt;relaxing content &lt;br/&gt;restrictions, &lt;br/&gt;specifically &lt;br/&gt;regarding political &lt;br/&gt;topics such as &lt;br/&gt;gender identity and &lt;br/&gt;immigration. &lt;br/&gt;Children may    &lt;br/&gt;encounter more &lt;br/&gt;polarised or &lt;br/&gt;emotionally &lt;br/&gt;charged ideological &lt;br/&gt;narratives (i.e. &lt;br/&gt;transphobia) that &lt;br/&gt;they are not mature &lt;br/&gt;enough to navigate &lt;br/&gt;safely.  &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n19">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="264.1" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="28.3" x="10">&lt;html&gt;(3) &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="242.8" x="10" y="28.3">&lt;html&gt;Facebook are &lt;br/&gt;focusing automated &lt;br/&gt;policy violation &lt;br/&gt;systems to target &lt;br/&gt;"high-severity" &lt;br/&gt;violations such as &lt;br/&gt;extremely explicit &lt;br/&gt;or illegal content. &lt;br/&gt;While this will &lt;br/&gt;reduce the most &lt;br/&gt;harmful content, &lt;br/&gt;less severe but still &lt;br/&gt;damaging content &lt;br/&gt;may become more &lt;br/&gt;visible to under &lt;br/&gt;16s. &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n28">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="49.6" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="42.6" x="10">&lt;html&gt;Exposure To &lt;br/&gt;Harmful Content &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="14" x="10" y="42.6">&lt;html&gt;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n29">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="49.6" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="42.6" x="10">&lt;html&gt;Poses Mental &lt;br/&gt;Health Risks &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="14" x="10" y="42.6">&lt;html&gt;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n30">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="78.2" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="71.2" x="10">&lt;html&gt;Parents and &lt;br/&gt;Platforms &lt;br/&gt;struggle to protect &lt;br/&gt;Children &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="14" x="10" y="71.2">&lt;html&gt;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n36">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="192.60000000000002" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="56.900000000000006" x="10">&lt;html&gt;Ban Limits &lt;br/&gt;Harmful Content &lt;br/&gt;Exposure &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="142.70000000000002" x="10" y="56.900000000000006">&lt;html&gt;I strongly believe &lt;br/&gt;that under 16's &lt;br/&gt;exposure to this &lt;br/&gt;harmful content &lt;br/&gt;should be &lt;br/&gt;minimised and ban &lt;br/&gt;from social media &lt;br/&gt;would contribute to &lt;br/&gt;this.  &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n37">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="178.3" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="42.6" x="10">&lt;html&gt;Remove &amp; Filter &lt;br/&gt;Harmful Content &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="142.70000000000002" x="10" y="42.6">&lt;html&gt;Children's exposure &lt;br/&gt;to harmful content &lt;br/&gt;could be prevented &lt;br/&gt;through content &lt;br/&gt;removal and &lt;br/&gt;filtering systems. &lt;br/&gt;However, currently &lt;br/&gt;these systems are &lt;br/&gt;ineffective. &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n38">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="149.7" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="71.2" x="10">&lt;html&gt;Banning Social &lt;br/&gt;Media would &lt;br/&gt;improve Under &lt;br/&gt;16s mental health &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="85.5" x="10" y="71.2">&lt;html&gt;Social Media &lt;br/&gt;clearly impairs &lt;br/&gt;mental health, &lt;br/&gt;removing it would &lt;br/&gt;prevent this.  &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n39">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="206.90000000000003" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="71.2" x="10">&lt;html&gt;Mental Health &lt;br/&gt;Problems are &lt;br/&gt;caused by &lt;br/&gt;external factors &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="142.70000000000002" x="10" y="71.2">&lt;html&gt;These issues &lt;br/&gt;existed before &lt;br/&gt;social media and &lt;br/&gt;are often rooted in &lt;br/&gt;external causes. &lt;br/&gt;Addressing those &lt;br/&gt;may allow healthy &lt;br/&gt;use of social &lt;br/&gt;media. &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n40">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="85.5" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="85.5" x="10">&lt;html&gt;If under 16s can't &lt;br/&gt;be protected, they &lt;br/&gt;should not be &lt;br/&gt;able to use social &lt;br/&gt;media &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n41">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="56.900000000000006" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="56.900000000000006" x="10">&lt;html&gt;Why punish &lt;br/&gt;children? Why not &lt;br/&gt;fix the system? &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+          </graph>
+        </node>
+        <node id="s4" yfiles.foldertype="group">
+          <data key="d0">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry width="83.6" height="47.6" x="0" y="0"/>
+                  <y:Fill color="#BABABA" transparent="false"/>
+                  <y:BorderStyle color="#BABABA" width="0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="node_width" fontFamily="arial" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.6" height="17.6" x="0.0" xml:space="preserve" y="0">Against</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                  <y:State closed="false" closedHeight="47.6" closedWidth="83.6" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15" left="15" leftF="15" right="15" rightF="15" top="15" topF="15"/>
+                  <y:BorderInsets bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry width="83.6" height="17.6" x="0" y="0"/>
+                  <y:Fill color="#BABABA" transparent="false"/>
+                  <y:BorderStyle color="#BABABA" width="0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="node_width" fontFamily="Arial" fontSize="16" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="53.6" height="17.6" x="0.0" xml:space="preserve" y="0">Against</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                  <y:State closed="true" closedHeight="47.6" closedWidth="83.6" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15" left="15" leftF="15" right="15" rightF="15" top="15" topF="15"/>
+                  <y:BorderInsets bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+          </data>
+          <graph id="s4:" edgedefault="directed">
+            <node id="n12">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="464.30000000000007" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="42.6" x="10">&lt;html&gt;Provides A Safe &lt;br/&gt;Space &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="428.70000000000005" x="10" y="42.6">&lt;html&gt;Social&amp;#x20;Media&amp;#x20;can&amp;#x20;&lt;br/&gt;provide&amp;#x20;a&amp;#x20;safe&amp;#x20;&lt;br/&gt;space&amp;#x20;for&amp;#x20;under&amp;#x20;&lt;br/&gt;16s&amp;#x2C;&amp;#x20;especially&amp;#x20;&lt;br/&gt;marginalised&amp;#x20;&lt;br/&gt;groups&amp;#x20;or&amp;#x20;children&amp;#x20;&lt;br/&gt;who&amp;#x20;may&amp;#x20;not&amp;#x20;have&amp;#x20;&lt;br/&gt;a&amp;#x20;healthy&amp;#x20;home&amp;#x20;&lt;br/&gt;environment.&amp;#x20;&lt;br/&gt;McAlister&amp;#x20;et&amp;#x20;al.&amp;#x20;&lt;br/&gt;found&amp;#x20;that&amp;#x20;social&amp;#x20;&lt;br/&gt;media&amp;#x20;can&amp;#x20;improve&amp;#x20;&lt;br/&gt;the&amp;#x20;mental&amp;#x20;health&amp;#x20;of&amp;#x20;&lt;br/&gt;adolescents&amp;#x20;by&amp;#x20;&lt;br/&gt;providing&amp;#x20;safe&amp;#x20;&lt;br/&gt;spaces&amp;#x20;for&amp;#x20;children&amp;#x2C;&amp;#x20;&lt;br/&gt;increasing&amp;#x20;vital&amp;#x20;&lt;br/&gt;social&amp;#x20;connection&amp;#x20;&lt;br/&gt;and&amp;#x20;reducing&amp;#x20;&lt;br/&gt;loneliness.&amp;#x20;Social&amp;#x20;&lt;br/&gt;Media&amp;#x20;was&amp;#x20;found&amp;#x20;to&amp;#x20;&lt;br/&gt;act&amp;#x20;as&amp;#x20;crucial&amp;#x20;&lt;br/&gt;support&amp;#x20;systems&amp;#x20;for&amp;#x20;&lt;br/&gt;adolescents&amp;#x20;in&amp;#x20;the&amp;#x20;&lt;br/&gt;LGBTQ+&amp;#x20;&lt;br/&gt;community&amp;#x2C;&amp;#x20;offering&amp;#x20;&lt;br/&gt;validation&amp;#x20;and&amp;#x20;&lt;br/&gt;normalization&amp;#x20;in&amp;#x20;an&amp;#x20;&lt;br/&gt;anonymous&amp;#x20;space.&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n20">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="378.5" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="56.900000000000006" x="10">&lt;html&gt;Enables Long &lt;br/&gt;Distance &lt;br/&gt;Interaction &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="328.6" x="10" y="56.900000000000006">&lt;html&gt;Moving house or &lt;br/&gt;changing schools is &lt;br/&gt;common for many &lt;br/&gt;children. In my &lt;br/&gt;case, several close &lt;br/&gt;friends moved &lt;br/&gt;away during &lt;br/&gt;childhood, and &lt;br/&gt;without platforms &lt;br/&gt;like Instagram, I &lt;br/&gt;would have felt far &lt;br/&gt;more isolated. &lt;br/&gt;Social media &lt;br/&gt;helped me maintain &lt;br/&gt;those friendships &lt;br/&gt;despite the &lt;br/&gt;distance, &lt;br/&gt;supporting my &lt;br/&gt;mental health in a &lt;br/&gt;way that would &lt;br/&gt;have been much &lt;br/&gt;harder otherwise. &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n21">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="257.1" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="7" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="250.10000000000002" x="10" y="14">&lt;html&gt;McAlister et al. also &lt;br/&gt;propose teaching &lt;br/&gt;emotional &lt;br/&gt;regulation to &lt;br/&gt;navigate social &lt;br/&gt;media healthily: (1) &lt;br/&gt;choose platforms &lt;br/&gt;wisely, (2) modify &lt;br/&gt;content exposure, &lt;br/&gt;(3) focus on &lt;br/&gt;positives, (4) &lt;br/&gt;reframe harmful &lt;br/&gt;feedback, and (5) &lt;br/&gt;manage emotional &lt;br/&gt;reactions through &lt;br/&gt;breaks or &lt;br/&gt;disengagement. &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n22">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="435.70000000000005" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="42.6" x="10">&lt;html&gt;Learning &lt;br/&gt;Resources &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="400.1" x="10" y="42.6">&lt;html&gt;Social&amp;#x20;media&amp;#x20;can&amp;#x20;&lt;br/&gt;provide&amp;#x20;valuable&amp;#x20;&lt;br/&gt;educational&amp;#x20;support&amp;#x20;&lt;br/&gt;alongside&amp;#x20;school&amp;#x20;&lt;br/&gt;learning&amp;#x2C;&amp;#x20;&lt;br/&gt;particularly&amp;#x20;for&amp;#x20;&lt;br/&gt;GCSEs.&amp;#x20;During&amp;#x20;my&amp;#x20;&lt;br/&gt;revision&amp;#x2C;&amp;#x20;I&amp;#x20;found&amp;#x20;&lt;br/&gt;free&amp;#x20;resources&amp;#x20;on&amp;#x20;&lt;br/&gt;platforms&amp;#x20;like&amp;#x20;&lt;br/&gt;YouTube&amp;#x20;as&amp;#x20;&lt;br/&gt;effective&amp;#8212;if&amp;#x20;not&amp;#x20;&lt;br/&gt;more&amp;#x20;so&amp;#8212;than&amp;#x20;&lt;br/&gt;traditional&amp;#x20;&lt;br/&gt;materials.&amp;#x20;The&amp;#x20;&lt;br/&gt;sheer&amp;#x20;volume&amp;#x20;of&amp;#x20;&lt;br/&gt;high-quality&amp;#x20;content&amp;#x20;&lt;br/&gt;benefits&amp;#x20;under-16s&amp;#x20;&lt;br/&gt;academically.&amp;#x20;Pires&amp;#x20;&lt;br/&gt;et&amp;#x20;al.&amp;#x2C;&amp;#x20;2021&amp;#x20;found&amp;#x20;&lt;br/&gt;education&amp;#x20;was&amp;#x20;&lt;br/&gt;among&amp;#x20;the&amp;#x20;top&amp;#x20;five&amp;#x20;&lt;br/&gt;uses&amp;#x20;of&amp;#x20;YouTube&amp;#x20;&lt;br/&gt;by&amp;#x20;teens&amp;#x3B;&amp;#x20;banning&amp;#x20;&lt;br/&gt;access&amp;#x20;would&amp;#x20;&lt;br/&gt;clearly&amp;#x20;harm&amp;#x20;&lt;br/&gt;learning.&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n23">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="421.40000000000003" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="42.6" x="10">&lt;html&gt;Levels The &lt;br/&gt;Playing Field &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="385.8" x="10" y="42.6">&lt;html&gt;Unfortunately&amp;#x2C;&amp;#x20;&lt;br/&gt;educational&amp;#x20;&lt;br/&gt;inequality&amp;#x20;persists.&amp;#x20;&lt;br/&gt;2024&amp;#x20;GCSE&amp;#x20;results&amp;#x20;&lt;br/&gt;show&amp;#x20;48.8&amp;#x25;&amp;#x20;of&amp;#x20;&lt;br/&gt;private&amp;#x20;school&amp;#x20;&lt;br/&gt;students&amp;#x20;earned&amp;#x20;&lt;br/&gt;Grade&amp;#x20;7+&amp;#x2C;&amp;#x20;&lt;br/&gt;compared&amp;#x20;to&amp;#x20;just&amp;#x20;&lt;br/&gt;19.4&amp;#x25;&amp;#x20;in&amp;#x20;state&amp;#x20;&lt;br/&gt;schools&amp;#x20;&amp;#x28;The&amp;#x20;&lt;br/&gt;Guardian&amp;#x2C;&amp;#x20;2024&amp;#x29;.&amp;#x20;&lt;br/&gt;Removing&amp;#x20;access&amp;#x20;&lt;br/&gt;to&amp;#x20;free&amp;#x20;social&amp;#x20;&lt;br/&gt;media-based&amp;#x20;&lt;br/&gt;resources&amp;#x20;would&amp;#x20;&lt;br/&gt;disproportionately&amp;#x20;&lt;br/&gt;hurt&amp;#x20;state&amp;#x20;school&amp;#x20;&lt;br/&gt;students&amp;#x20;and&amp;#x20;widen&amp;#x20;&lt;br/&gt;the&amp;#x20;attainment&amp;#x20;gap.&amp;#x20;&lt;br/&gt;As&amp;#x20;someone&amp;#x20;from&amp;#x20;a&amp;#x20;&lt;br/&gt;state&amp;#x20;school&amp;#x20;who&amp;#x20;&lt;br/&gt;relied&amp;#x20;heavily&amp;#x20;on&amp;#x20;&lt;br/&gt;these&amp;#x20;tools&amp;#x2C;&amp;#x20;I&amp;#x20;find&amp;#x20;&lt;br/&gt;such&amp;#x20;a&amp;#x20;ban&amp;#x20;deeply&amp;#x20;&lt;br/&gt;unfair.&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n24">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="235.50000000000003" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="56.900000000000006" x="10">&lt;html&gt;Not all Social &lt;br/&gt;Media is &lt;br/&gt;Educational &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="185.60000000000002" x="10" y="56.900000000000006">&lt;html&gt;Most&amp;#x20;platforms&amp;#x2C;&amp;#x20;like&amp;#x20;&lt;br/&gt;Instagram&amp;#x20;and&amp;#x20;&lt;br/&gt;Snapchat&amp;#x2C;&amp;#x20;prioritise&amp;#x20;&lt;br/&gt;entertainment&amp;#x20;and&amp;#x20;&lt;br/&gt;visual&amp;#x2C;&amp;#x20;short-form&amp;#x20;&lt;br/&gt;content.&amp;#x20;However&amp;#x2C;&amp;#x20;&lt;br/&gt;features&amp;#x20;like&amp;#x20;&lt;br/&gt;TikTok&amp;#8217;s&amp;#x20;new&amp;#x20;&lt;br/&gt;&amp;#8220;STEM&amp;#8221;&amp;#x20;feed&amp;#x20;show&amp;#x20;&lt;br/&gt;efforts&amp;#x20;to&amp;#x20;promote&amp;#x20;&lt;br/&gt;learning&amp;#x20;&amp;#x28;TikTok&amp;#x2C;&amp;#x20;&lt;br/&gt;2024&amp;#x29;.&amp;#x20;&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n25">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="385.8" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="7" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="378.8" x="10" y="14">&lt;html&gt;In&amp;#x20;the&amp;#x20;event&amp;#x20;of&amp;#x20;&lt;br/&gt;another&amp;#x20;global&amp;#x20;&lt;br/&gt;pandemic&amp;#x2C;&amp;#x20;&lt;br/&gt;under-16s&amp;#x20;would&amp;#x20;&lt;br/&gt;face&amp;#x20;heightened&amp;#x20;&lt;br/&gt;risks&amp;#x20;of&amp;#x20;isolation&amp;#x20;&lt;br/&gt;and&amp;#x20;disrupted&amp;#x20;&lt;br/&gt;education.&amp;#x20;&lt;br/&gt;COVID-19&amp;#x20;research&amp;#x20;&lt;br/&gt;revealed&amp;#x20;that&amp;#x2C;&amp;#x20;&lt;br/&gt;across&amp;#x20;200&amp;#x2C;000&amp;#x20;&lt;br/&gt;individuals&amp;#x2C;&amp;#x20;&lt;br/&gt;loneliness&amp;#x20;had&amp;#x20;&lt;br/&gt;increased&amp;#x20;due&amp;#x20;to&amp;#x20;&lt;br/&gt;the&amp;#x20;social&amp;#x20;isolation&amp;#x20;&lt;br/&gt;&amp;#x28;APA&amp;#x2C;&amp;#x20;2022&amp;#x29;.&amp;#x20;In&amp;#x20;&lt;br/&gt;such&amp;#x20;&lt;br/&gt;circumstances&amp;#x2C;&amp;#x20;&lt;br/&gt;social&amp;#x20;media&amp;#x20;could&amp;#x20;&lt;br/&gt;play&amp;#x20;a&amp;#x20;vital&amp;#x20;role&amp;#x20;in&amp;#x20;&lt;br/&gt;supporting&amp;#x20;young&amp;#x20;&lt;br/&gt;people&amp;#x27;s&amp;#x20;mental&amp;#x20;&lt;br/&gt;health&amp;#x20;and&amp;#x20;&lt;br/&gt;providing&amp;#x20;access&amp;#x20;to&amp;#x20;&lt;br/&gt;educational&amp;#x20;&lt;br/&gt;resources.&amp;#x20;&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n26">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="321.3" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="28.3" x="10">&lt;html&gt;Pre-existing Bans &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="300" x="10" y="28.3">&lt;html&gt;Campbell&amp;#x20;et&amp;#x20;al.&amp;#x20;&lt;br/&gt;&amp;#x28;Campbell&amp;#x20;et&amp;#x20;al.&amp;#x2C;&amp;#x20;&lt;br/&gt;2024&amp;#x29;&amp;#x20;references&amp;#x20;&lt;br/&gt;multiple&amp;#x20;cases&amp;#x20;of&amp;#x20;&lt;br/&gt;mobile&amp;#x20;phone&amp;#x20;bans&amp;#x20;&lt;br/&gt;in&amp;#x20;schools&amp;#x20;across&amp;#x20;&lt;br/&gt;multiple&amp;#x20;countries&amp;#x20;&lt;br/&gt;and&amp;#x20;decades.&amp;#x20;Many&amp;#x20;&lt;br/&gt;of&amp;#x20;these&amp;#x20;restrictions&amp;#x20;&lt;br/&gt;were&amp;#x20;reversed&amp;#x20;due&amp;#x20;&lt;br/&gt;to&amp;#x20;them&amp;#x20;being&amp;#x20;&lt;br/&gt;overly&amp;#x20;rigid&amp;#x20;and&amp;#x20;&lt;br/&gt;difficult&amp;#x20;to&amp;#x20;enforce&amp;#x2C;&amp;#x20;&lt;br/&gt;as&amp;#x20;well&amp;#x20;as&amp;#x20;this&amp;#x2C;&amp;#x20;the&amp;#x20;&lt;br/&gt;ban&amp;#x20;shifted&amp;#x20;digital&amp;#x20;&lt;br/&gt;literacy&amp;#x20;education&amp;#x20;&lt;br/&gt;to&amp;#x20;families&amp;#x20;who&amp;#x20;felt&amp;#x20;&lt;br/&gt;unprepared&amp;#x20;to&amp;#x20;&lt;br/&gt;teach&amp;#x20;their&amp;#x20;children&amp;#x20;&lt;br/&gt;effectively.&amp;#x20;&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n27">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="349.90000000000003" x="0" y="0"/>
+                  <y:Fill color="#FFFFFF" transparent="false"/>
+                  <y:BorderStyle color="#1b9e77" type="line" width="3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="28.3" x="10">&lt;html&gt;Avoiding the Ban &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="328.6" x="10" y="28.3">&lt;html&gt;Tools&amp;#x20;such&amp;#x20;as&amp;#x20;VPN&amp;#x20;&lt;br/&gt;can&amp;#x20;be&amp;#x20;used&amp;#x20;to&amp;#x20;&lt;br/&gt;bypass&amp;#x20;social&amp;#x20;&lt;br/&gt;media&amp;#x20;restrictions&amp;#x20;&lt;br/&gt;based&amp;#x20;on&amp;#x20;time&amp;#x20;and&amp;#x20;&lt;br/&gt;location.&amp;#x20;Clara&amp;#x20;Lin&amp;#x20;&lt;br/&gt;Hawking&amp;#x20;describes&amp;#x20;&lt;br/&gt;how&amp;#x20;children&amp;#x20;can&amp;#x20;&lt;br/&gt;avoid&amp;#x20;screen&amp;#x20;time&amp;#x20;&lt;br/&gt;limits&amp;#x20;and&amp;#x20;access&amp;#x20;&lt;br/&gt;both&amp;#x20;parentally&amp;#x20;and&amp;#x20;&lt;br/&gt;geographically&amp;#x20;&lt;br/&gt;blocked&amp;#x20;media&amp;#x20;by&amp;#x20;&lt;br/&gt;changing&amp;#x20;their&amp;#x20;&lt;br/&gt;virtual&amp;#x20;location.&amp;#x20;&lt;br/&gt;These&amp;#x20;technologies&amp;#x20;&lt;br/&gt;could&amp;#x20;lead&amp;#x20;to&amp;#x20;&lt;br/&gt;children&amp;#x20;continuing&amp;#x20;&lt;br/&gt;to&amp;#x20;use&amp;#x20;social&amp;#x20;&lt;br/&gt;media&amp;#x2C;&amp;#x20;potentially&amp;#x20;&lt;br/&gt;endangering&amp;#x20;&lt;br/&gt;themselves.&amp;#x20;&amp;#x20;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n31">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="63.900000000000006" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="56.900000000000006" x="10">&lt;html&gt;Can Provide &lt;br/&gt;Social Connection &lt;br/&gt;and Support &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="14" x="10" y="56.900000000000006">&lt;html&gt;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n32">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="63.900000000000006" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="56.900000000000006" x="10">&lt;html&gt;Under 16s Can &lt;br/&gt;Navigate Social &lt;br/&gt;Media Healthily &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="14" x="10" y="56.900000000000006">&lt;html&gt;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n33">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="63.900000000000006" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="56.900000000000006" x="10">&lt;html&gt;Provides &lt;br/&gt;Educational &lt;br/&gt;Resources &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="14" x="10" y="56.900000000000006">&lt;html&gt;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n34">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="63.900000000000006" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="56.900000000000006" x="10">&lt;html&gt;Another &lt;br/&gt;Pandemic &lt;br/&gt;Situation &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="14" x="10" y="56.900000000000006">&lt;html&gt;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n35">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="78.2" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="71.2" x="10">&lt;html&gt;There Are &lt;br/&gt;Difficulties &lt;br/&gt;Implementing A &lt;br/&gt;Social Media Ban &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="14" x="10" y="71.2">&lt;html&gt;&lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n42">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="56.900000000000006" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="56.900000000000006" x="10">&lt;html&gt;Children will not &lt;br/&gt;follow this in &lt;br/&gt;reality &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+            <node id="n43">
+              <data key="d0">
+                <y:ShapeNode>
+                  <y:Geometry width="135" height="149.70000000000002" x="0" y="0"/>
+                  <y:Fill color="#1b9e77" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="0.3"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" modelName="internal" topInset="7" bottomInset="7" borderDistance="0" modelPosition="t" textColor="#000000" visible="true" width="115" height="56.900000000000006" x="10">&lt;html&gt;Educate children &lt;br/&gt;to adopt this &lt;br/&gt;mindset &lt;/html&gt;</y:NodeLabel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="arial" fontSize="13" topInset="0" bottomInset="7" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" modelName="internal" modelPosition="b" borderDistance="0" textColor="#000000" visible="true" width="115" height="99.80000000000001" x="10" y="56.900000000000006">&lt;html&gt;Teaching these &lt;br/&gt;skills early is better &lt;br/&gt;than delaying &lt;br/&gt;access, only for &lt;br/&gt;unhealthy habits to &lt;br/&gt;form later.  &lt;/html&gt;</y:NodeLabel>
+                  <y:Shape type="roundrectangle"/>
+                </y:ShapeNode>
+              </data>
+            </node>
+          </graph>
+        </node>
+      </graph>
+    </node>
+    <edge id="e1" directed="true" source="n0" target="n1">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e2" directed="true" source="n28" target="n0">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e3" directed="true" source="n29" target="n0">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e4" directed="true" source="n30" target="n0">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e5" directed="true" source="n31" target="n0">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#ff0000" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e6" directed="true" source="n32" target="n0">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#ff0000" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e7" directed="true" source="n33" target="n0">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#ff0000" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e8" directed="true" source="n34" target="n0">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#ff0000" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e9" directed="true" source="n35" target="n0">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#ff0000" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e10" directed="true" source="n0" target="n2">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e11" directed="true" source="n4" target="n3">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" directed="true" source="n3" target="n28">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e13" directed="true" source="n5" target="n28">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e14" directed="true" source="n6" target="n28">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e15" directed="true" source="n7" target="n28">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e16" directed="true" source="n36" target="n28">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e17" directed="true" source="n37" target="n8">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#ff0000" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e18" directed="true" source="n37" target="n28">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#ff0000" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e19" directed="true" source="n9" target="n29">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e20" directed="true" source="n10" target="n29">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e21" directed="true" source="n11" target="n29">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e22" directed="true" source="n38" target="n29">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e23" directed="true" source="n39" target="n12">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e24" directed="true" source="n39" target="n32">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e25" directed="true" source="n39" target="n29">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#ff0000" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e26" directed="true" source="n13" target="n30">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e27" directed="true" source="n14" target="n8">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e28" directed="true" source="n15" target="n8">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e29" directed="true" source="n17" target="n16">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e30" directed="true" source="n18" target="n16">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e31" directed="true" source="n19" target="n16">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e32" directed="true" source="n16" target="n8">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e33" directed="true" source="n8" target="n30">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e34" directed="true" source="n40" target="n30">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e35" directed="true" source="n41" target="n35">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e36" directed="true" source="n41" target="n30">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#ff0000" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e37" directed="true" source="n20" target="n31">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e38" directed="true" source="n12" target="n31">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e39" directed="true" source="n21" target="n32">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e40" directed="true" source="n43" target="n42">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#ff0000" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e41" directed="true" source="n42" target="n32">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#ff0000" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e42" directed="true" source="n23" target="n22">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e43" directed="true" source="n22" target="n33">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e44" directed="true" source="n24" target="n33">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#ff0000" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e45" directed="true" source="n25" target="n31">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e46" directed="true" source="n25" target="n33">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e47" directed="true" source="n25" target="n34">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e48" directed="true" source="n26" target="n35">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e49" directed="true" source="n27" target="n35">
+      <data key="d1">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#00ff00" type="line" width="0.3"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+  </graph>
+</graphml>
